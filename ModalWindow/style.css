@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    width: 50%;
+    height: 50%;
+}
+
+.modal-window {
+    background-color: #0d26c6;
+    margin: 80px;
+    padding: 20px;
+    border: thick double #12e538;
+    width: 80%;
+    border-radius: 20px;
+}
+
+.btn {
+    padding: 20px 30px;
+    font-size: 20px;
+    background-color: #0d26c6;
+    border: thick double #12e538;
+    color: white;
+    border-radius: 20px;
+}
